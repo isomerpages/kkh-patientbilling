@@ -7,10 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Patient billing isomer banner copy.jpg
-      dropdown:
-        title: Hero Dropdown Title
-        options: []
+      background: /images/Patient billing isomer banner.jpg
   - resources:
       button: Methods
 ---
