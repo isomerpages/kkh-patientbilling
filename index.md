@@ -7,8 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Patient Billing Services
-      background: /images/hero-banner.png
+      background: /images/Patient billing isomer banner copy.jpg
   - resources:
       button: Methods
 ---
