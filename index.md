@@ -26,10 +26,10 @@ sections:
       url: x
       background: /images/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Payment Methods
+      description: Make payment at your own convenience for your medical needs and expenses.
+      button: FIND OUT MORE
       alt: Image alt text
       image: /images/payments.jpg
+      url: x
 ---
