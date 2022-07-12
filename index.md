@@ -9,16 +9,16 @@ sections:
   - hero:
       key_highlights:
         - title: Payments
-          description: All accepted payment methods
+          description: All accepted payment methods for your convenience
           url: ""
         - title: Enquiries
-          description: Final bill, payments or refunds
+          description: Make enquiries about your final bill, payments or refunds
           url: ""
         - title: Documents
-          description: Submission, verification or settlement
+          description: Submission, verification or settlement of documents
           url: ""
         - title: Financial Assistance
-          description: Subsidized healthcare services
+          description: Obtain access to subsidized healthcare services
           url: ""
       title: Patient Billing
       subtitle: By KKH Business Office
