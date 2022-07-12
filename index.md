@@ -11,7 +11,7 @@ sections:
         - title: Payments
           description: All methods accepted including direct debit authorisation and
             overseas payments
-          url: ""
+          url: /paymentmodes
         - title: Enquiries
           description: Submit any queries and requests about your bill, payments and refunds
           url: ""
@@ -33,7 +33,7 @@ sections:
       button: FIND OUT MORE
       alt: Image alt text
       image: /images/payments.jpg
-      url: x
+      url: /paymentmodes
   - infopic:
       title: Billing Enquiries
       description: For enquiries about final bill, payment or refund.
