@@ -25,6 +25,10 @@ sections:
       button: Find out more
       url: x
       background: /images/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg
-  - resources:
-      button: Methods
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
 ---
