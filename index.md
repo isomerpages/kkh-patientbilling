@@ -9,7 +9,8 @@ sections:
   - hero:
       key_highlights:
         - title: Payments
-          description: All accepted payment methods for your convenience
+          description: All methods accepted including direct debit authorisation and
+            overseas payments.
           url: ""
         - title: Enquiries
           description: Make enquiries about your final bill, payments or refunds
