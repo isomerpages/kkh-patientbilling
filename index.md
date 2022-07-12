@@ -10,16 +10,17 @@ sections:
       key_highlights:
         - title: Payments
           description: All methods accepted including direct debit authorisation and
-            overseas payments.
+            overseas payments
           url: ""
         - title: Enquiries
-          description: Make enquiries about your final bill, payments or refunds
+          description: Submit any queries and requests about your bill, payments and refunds
           url: ""
         - title: Documents
-          description: Submission, verification or settlement of documents
+          description: For information on submission, verification or settlement of
+            documents
           url: ""
         - title: Financial Assistance
-          description: Obtain access to subsidized healthcare services
+          description: Appeal for access to subsidized healthcare services
           url: ""
       title: Patient Billing
       subtitle: By KKH Business Office
