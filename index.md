@@ -48,4 +48,11 @@ sections:
       url: X
       image: /images/arisa-chattasa-0LaBRkmH4fM-unsplash.jpg
       alt: Image alt text
+  - infopic:
+      title: MediSave and Insurance
+      description: Information on using MediSave for Maternity MediSave Package,
+        MediShield Life and Private Medical Insurance.
+      button: DISCOVER MORE
+      url: x
+      alt: medisave
 ---
