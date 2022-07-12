@@ -12,7 +12,7 @@ sections:
           description: All accepted payment methods
           url: ""
         - title: Enquiries
-          description: Final bill, payment or refund
+          description: Final bill, payments or refunds
           url: ""
         - title: Documents
           description: Submission, verification or settlement
