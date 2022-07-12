@@ -18,7 +18,7 @@ sections:
           description: Submission, verification or settlement
           url: ""
         - title: Financial Assistance
-          description: Subsidized medical bills
+          description: Subsidized healthcare services
           url: ""
       title: Patient Billing
       subtitle: By KKH Business Office
