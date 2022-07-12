@@ -66,10 +66,19 @@ sections:
       alt: Financial assistance
   - infopic:
       title: Switch Ward Type
-      description: Information on making request to switch to a lower ward type for
-        inpatient care.
+      description: Information on making request to switch to a lower ward type.
       button: LEARN HOW
       url: x
       image: /images/ward.jpg
       alt: Image alt text
+      subtitle: Inpatient
+  - infopic:
+      title: Switch to Subsidized Care
+      subtitle: Outpatient
+      description: Singapore Citizens and Permanent Residents can switch to subsidised
+        healthcare services provided through government healthcare facilities.
+      button: FIND OUT MORE
+      url: x
+      image: /images/Outpatient.jpg
+      alt: Outpatient care
 ---
