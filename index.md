@@ -24,7 +24,6 @@ sections:
       subtitle: By KKH Business Office
       button: Find out more
       url: x
-      background: /images/Patient billing empty background.jpg
   - resources:
       button: Methods
 ---
