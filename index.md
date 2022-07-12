@@ -32,4 +32,11 @@ sections:
       alt: Image alt text
       image: /images/payments.jpg
       url: x
+  - infopic:
+      title: Billing Enquiries
+      description: For enquiries about final bill, payment or refund.
+      button: Submit here
+      url: x
+      image: /images/2022-07-12.png
+      alt: Billing enquiries
 ---
