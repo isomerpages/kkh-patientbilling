@@ -21,6 +21,10 @@ sections:
         - title: Financial Assistance
           description: Subsidized medical bills
           url: ""
+      title: Patient Billing
+      subtitle: By KKH Business Office
+      button: Find out more
+      url: x
   - resources:
       button: Methods
 ---
