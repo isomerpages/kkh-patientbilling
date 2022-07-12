@@ -56,4 +56,12 @@ sections:
       url: x
       alt: medisave
       image: /images/health ins.jpg
+  - infopic:
+      title: Financial Assistance
+      description: Financial assistance for payment of subsidised medical bills is
+        available for Singapore Citizens and Permanent Residents.
+      button: Learn more
+      url: x
+      image: /images/andre-taissin-5OUMf1Mr5pU-unsplash.jpg
+      alt: Financial assistance
 ---
