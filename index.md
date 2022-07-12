@@ -24,6 +24,7 @@ sections:
       subtitle: By KKH Business Office
       button: Find out more
       url: x
+      background: /images/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg
   - resources:
       button: Methods
 ---
