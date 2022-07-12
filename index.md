@@ -64,4 +64,12 @@ sections:
       url: x
       image: /images/andre-taissin-5OUMf1Mr5pU-unsplash.jpg
       alt: Financial assistance
+  - infopic:
+      title: Switch Ward Type
+      description: Information on making request to switch to a lower ward type for
+        inpatient care.
+      button: LEARN HOW
+      url: x
+      image: /images/ward.jpg
+      alt: Image alt text
 ---
