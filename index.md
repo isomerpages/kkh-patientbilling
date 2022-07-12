@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Patient billing isomer banner.jpg
       key_highlights:
         - title: Payments
           description: All accepted payment methods
