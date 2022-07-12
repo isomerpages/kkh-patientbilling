@@ -1,0 +1,4 @@
+collections:
+  payments:
+    output: true
+    order: []
