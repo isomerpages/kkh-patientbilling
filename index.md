@@ -55,4 +55,5 @@ sections:
       button: DISCOVER MORE
       url: x
       alt: medisave
+      image: /images/health ins.jpg
 ---
