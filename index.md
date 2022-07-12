@@ -14,11 +14,11 @@ sections:
           url: /paymentmodes
         - title: Enquiries
           description: Submit any queries and requests about your bill, payments and refunds
-          url: ""
+          url: enquiries
         - title: Documents
           description: For information on submission, verification or settlement of
             documents
-          url: ""
+          url: documents
         - title: Financial Assistance
           description: Appeal for access to subsidized healthcare services
           url: ""
@@ -38,7 +38,7 @@ sections:
       title: Billing Enquiries
       description: For enquiries about final bill, payment or refund.
       button: Submit here
-      url: x
+      url: enquiries
       image: /images/2022-07-12.png
       alt: Billing enquiries
   - infopic:
@@ -47,7 +47,7 @@ sections:
         visit/admission, i.e, Birth Certificate, Letter of Guarantee, Medisave
         Claim Authorisation Form (MCAF).
       button: LEARN MORE
-      url: X
+      url: documents
       image: /images/arisa-chattasa-0LaBRkmH4fM-unsplash.jpg
       alt: Image alt text
   - infopic:
