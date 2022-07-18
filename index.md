@@ -55,7 +55,7 @@ sections:
       description: Information on using MediSave for Maternity MediSave Package,
         MediShield Life and Private Medical Insurance.
       button: DISCOVER MORE
-      url: /medisaveandinsurance
+      url: /medisave-and-insurance
       alt: medisave
       image: /images/health ins.jpg
   - infopic:
