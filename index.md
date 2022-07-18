@@ -32,7 +32,7 @@ sections:
       description: Make payment at your own convenience for your medical needs and expenses.
       button: FIND OUT MORE
       alt: Image alt text
-      image: /images/payments.jpg
+      image: /images/pexels-kindel-media-6995134.jpg
       url: /paymentmodes
   - infopic:
       title: Billing Enquiries
