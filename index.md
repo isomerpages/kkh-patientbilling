@@ -14,18 +14,18 @@ sections:
           url: /paymentmodes
         - title: Enquiries
           description: Submit any queries and requests about your bill, payments and refunds
-          url: enquiries
+          url: /enquiries
         - title: Documents
           description: For information on submission, verification or settlement of
             documents
-          url: documents
+          url: /documents
         - title: Financial Assistance
           description: Appeal for access to subsidized healthcare services
-          url: ""
+          url: /financialassistance
       title: Patient Billing
       subtitle: By KKH Business Office
       button: Find out more
-      url: x
+      url: https://www.kkh.com.sg/
       background: /images/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg
   - infopic:
       title: Payment Methods
@@ -55,7 +55,7 @@ sections:
       description: Information on using MediSave for Maternity MediSave Package,
         MediShield Life and Private Medical Insurance.
       button: DISCOVER MORE
-      url: x
+      url: /medisaveandinsurance
       alt: medisave
       image: /images/health ins.jpg
   - infopic:
@@ -63,14 +63,14 @@ sections:
       description: Financial assistance for payment of subsidised medical bills is
         available for Singapore Citizens and Permanent Residents.
       button: Learn more
-      url: x
+      url: financialassistance
       image: /images/andre-taissin-5OUMf1Mr5pU-unsplash.jpg
       alt: Financial assistance
   - infopic:
       title: Switch Ward Type
       description: Information on making request to switch to a lower ward type.
       button: LEARN HOW
-      url: x
+      url: switchward
       image: /images/ward.jpg
       alt: Image alt text
       subtitle: Inpatient
@@ -80,7 +80,7 @@ sections:
       description: Singapore Citizens and Permanent Residents can switch to subsidised
         healthcare services provided through government healthcare facilities.
       button: FIND OUT MORE
-      url: x
+      url: subsidizedcare
       image: /images/Outpatient.jpg
       alt: Outpatient care
 ---
