@@ -2,8 +2,8 @@ collections:
   medisave-and-insurance:
     output: true
     order:
-      - Medical Claim Authorisation Forms.md
-      - Private Medical Insurance (PMI).md
       - MediSave.md
       - MediSave Maternity Package (MMP).md
       - MediShield Life.md
+      - Private Medical Insurance (PMI).md
+      - Medical Claim Authorisation Forms.md
