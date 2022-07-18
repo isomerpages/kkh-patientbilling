@@ -2,4 +2,4 @@ collections:
   medisave-and-insurance:
     output: true
     order:
-      - MediSave and Insurance.md
+      - MediSave.md
