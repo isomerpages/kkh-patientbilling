@@ -1,9 +1,15 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
+  - title: Payments
+    url: /paymentmodes
+  - title: Enquiries
+    url: /Enquiries
+  - title: Documents
+    url: /Documents
   - title: MediSave and Insurance
     collection: medisave-and-insurance
+  - title: Assistance
+    url: /financialassistance
   - title: Inpatient
     url: /switchward
   - title: Outpatient
