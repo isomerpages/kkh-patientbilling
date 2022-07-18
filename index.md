@@ -43,9 +43,9 @@ sections:
       alt: Billing enquiries
   - infopic:
       title: Document Submission
-      description: For verification and/or settlement of your hospital
-        visit/admission, i.e, Birth Certificate, Letter of Guarantee, Medisave
-        Claim Authorisation Form (MCAF).
+      description: For verification or settlement of your hospital visit, i.e, Birth
+        Certificate, Letter of Guarantee, Medisave Claim Authorisation Form
+        (MCAF).
       button: LEARN MORE
       url: documents
       image: /images/arisa-chattasa-0LaBRkmH4fM-unsplash.jpg
