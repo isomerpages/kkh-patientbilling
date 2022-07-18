@@ -1,4 +1,5 @@
 collections:
   medisave-and-insurance:
     output: true
-    order: []
+    order:
+      - MediSave and Insurance.md
