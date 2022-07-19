@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: KK Women's and Children's Hospital Patient Billing Services
+description: Patient billing e-services for KK Women's and Children's Hospital, Singapore
+image: /images/site-logo.png
 permalink: /
 notification: ""
 sections:
@@ -84,3 +84,4 @@ sections:
       image: /images/Outpatient.jpg
       alt: Outpatient care
 ---
+
