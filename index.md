@@ -26,4 +26,8 @@ sections:
       button: Find out more
       url: https://www.kkh.com.sg/
       background: /images/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg
+  - resources:
+      title: News and Happenings
+      subtitle: EXPLORE
+      button: VIEW ALL
 ---
