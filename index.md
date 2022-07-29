@@ -28,13 +28,6 @@ sections:
       url: https://www.kkh.com.sg/
       background: /images/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg
   - infopic:
-      title: Payment Methods
-      description: Make payment at your own convenience for your medical needs and expenses.
-      button: FIND OUT MORE
-      alt: Image alt text
-      image: /images/pexels-kindel-media-6995134.jpg
-      url: /paymentmodes
-  - infopic:
       title: Billing Enquiries
       description: For enquiries about final bill, payment or refund.
       button: Submit here
@@ -84,4 +77,3 @@ sections:
       image: /images/Outpatient.jpg
       alt: Outpatient care
 ---
-
