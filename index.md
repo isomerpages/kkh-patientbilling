@@ -25,8 +25,7 @@ sections:
       subtitle: By KKH Business Office
       button: Find out more
       url: https://www.kkh.com.sg/
-      background: /images/Doctor Sits at the Desk in Medical Clinic Flat Style
-        Illustration Instagram posts (768 × 135 px).jpg
+      background: /images/banner home.png
   - resources:
       title: News and Happenings
       subtitle: EXPLORE
