@@ -25,7 +25,7 @@ sections:
       subtitle: By KKH Business Office
       button: Find out more
       url: https://www.kkh.com.sg/
-      background: /images/banner home.png
+      background: /images/canva banner.jpg
   - resources:
       title: News and Happenings
       subtitle: EXPLORE
