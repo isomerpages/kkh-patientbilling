@@ -25,7 +25,8 @@ sections:
       subtitle: By KKH Business Office
       button: Find out more
       url: https://www.kkh.com.sg/
-      background: /images/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg
+      background: /images/Doctor Sits at the Desk in Medical Clinic Flat Style
+        Illustration Instagram posts (768 × 135 px).jpg
   - resources:
       title: News and Happenings
       subtitle: EXPLORE
