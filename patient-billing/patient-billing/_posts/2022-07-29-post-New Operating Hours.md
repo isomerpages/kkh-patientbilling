@@ -5,12 +5,10 @@ date: 2022-07-29
 layout: post
 description: ""
 ---
-**Business Office counter has New Operating Hours**
+**Business Office has New Operating Hours**
 
-From 5 September 2022, Business Office will operate from 9 am to 1 pm on Monday - Friday, excluding PH.
+From 5 September 2022, Business Office counter at L1 will operate from 9.00 am to 1.00 pm on Mon - Fri (excluding PH).
 	
-Check out our Patient Billing Services website to know about payments, Insurance, Document Submission, and more.
+Make use of this website to know about payments, Insurance, Document Submission, and more.
 
-You can chat with our Hospital ChatBot, KKHelpBot, or with our live agent.
-
-	
+You can chat with our Hospital ChatBot, KKHelpBot, or with our live agent [here](https://www.kkh.com.sg/about-kkh/contact-us).
