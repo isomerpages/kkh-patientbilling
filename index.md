@@ -17,7 +17,7 @@ sections:
           url: /documents
         - title: MEDISAVE
           description: Information on using MediSave for treatments.
-          url: https://kkh-patientbilling-staging.netlify.app/medisave-and-insurance/medisave
+          url: /medisave-and-insurance/medisave
         - title: Financial Assistance
           description: Appeal for access to subsidized healthcare services
           url: /financialassistance
