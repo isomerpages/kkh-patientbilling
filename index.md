@@ -11,13 +11,13 @@ sections:
         - title: Payments
           description: Learn about all payment methods accepted
           url: /paymentmodes
-        - title: Enquiries
-          description: Submit queries and requests about your bill, payments or refunds
-          url: /enquiries
         - title: Documents
           description: Find information on submission, verification or settlement of
             documents
           url: /documents
+        - title: MEDISAVE
+          description: Information on using MediSave for treatments.
+          url: https://kkh-patientbilling-staging.netlify.app/medisave-and-insurance/medisave
         - title: Financial Assistance
           description: Appeal for access to subsidized healthcare services
           url: /financialassistance
