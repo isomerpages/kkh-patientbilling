@@ -12,3 +12,5 @@ From 5 September 2022, Business Office counter at L1 will operate from 9.00 am t
 Make use of this website to know about payments, Insurance, Document Submission, and more.
 
 You can chat with our Hospital ChatBot, KKHelpBot, or with our live agent [here](https://www.kkh.com.sg/about-kkh/contact-us).
+
+![](/images/Business%20Office,%20KKH.jpg)
