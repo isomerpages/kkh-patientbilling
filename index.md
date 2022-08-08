@@ -25,7 +25,7 @@ sections:
       subtitle: By KKH Business Office
       button: Find out more
       url: https://www.kkh.com.sg/
-      background: /images/Doctor Sits at the Desk in Medicax) (1).jpg
+      background: /images/women desk copy.jpg
   - resources:
       title: News and Happenings
       subtitle: EXPLORE
