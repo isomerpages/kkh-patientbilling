@@ -2,5 +2,6 @@ collections:
   bill-payment:
     output: true
     order:
+      - NETS and Credit Cards.md
       - DBS Internet Banking, Mobile Banking or PayLah!.md
       - Mobile Payment Portal.md
