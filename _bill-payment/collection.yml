@@ -2,9 +2,9 @@ collections:
   bill-payment:
     output: true
     order:
-      - Flywire (Overseas Payment for International Patients).md
-      - AXS Stations.md
-      - SAMs and Post Offices.md
-      - NETS and Credit Cards.md
-      - DBS Internet Banking, Mobile Banking or PayLah!.md
       - Mobile Payment Portal.md
+      - DBS Internet Banking, Mobile Banking or PayLah!.md
+      - NETS and Credit Cards.md
+      - SAMs and Post Offices.md
+      - AXS Stations.md
+      - Flywire (Overseas Payment for International Patients).md
