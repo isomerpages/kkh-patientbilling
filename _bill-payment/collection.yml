@@ -1,0 +1,4 @@
+collections:
+  bill-payment:
+    output: true
+    order: []
