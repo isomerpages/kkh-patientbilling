@@ -1,6 +1,6 @@
 ---
 title: Medical Claim Authorisation Forms
-permalink: /medisave-and-insurance/forms
+permalink: /medisave-and-insurance/forms/
 description: ""
 ---
 The Ministry of Health has introduced two Medical Claims Authorisation Forms (MCAF).
@@ -36,7 +36,7 @@ These consents enable the Ministry of Health (MOH) and Public Healthcare Institu
 
 **Steps on how to fill up the MCAF(M) form:**
 
-  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/BpKlwvQhtts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![](https://www.kkh.com.sg/patient-care/patient-billing-services/PublishingImages/mcaf-m-01.png)
 
