@@ -4,7 +4,7 @@ permalink: /paymentmodes/
 description: ""
 ---
 <h4> Make payments at your own convenience for your medical expenses.</h4>
-
+<br>
  <table style="border: 1px solid rgb(198, 198, 198); width: 811px;"><tbody>
 <tr>
 <td style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 156px;">
