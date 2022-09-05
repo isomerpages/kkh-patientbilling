@@ -7,7 +7,7 @@ description: ""
 
 **Request for Physical Final Bill**<br>
 Need a copy of your printed final bill? Submit your request [here](https://form.gov.sg/61765cb2f16712001311a0bb).
-<br>
+
 <br>
  <img src="images/payment enquiry.png" style="vertical-align: middle; max-width: 20%; margin: 5px;">
  
@@ -28,15 +28,13 @@ Need a copy of your printed final bill? Submit your request [here](https://form
 	<tr>
 		<td style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">
 			​<b>Refund Enquiry</b>
-			<br style="box-sizing: border-box;">
+			<br>
 			• Monday to Friday (exclude PH), 8.30am to 5.30pm
 		</td>
 		<td style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">
 			Tel: 6407 8040
 		</td></tr></tbody></table>
 
-
-<br>
 <br>
  <img src="images/feedback.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
  
