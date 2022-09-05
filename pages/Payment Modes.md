@@ -3,7 +3,7 @@ title: Payment Modes
 permalink: /paymentmodes/
 description: ""
 ---
-<img src="images/payment modes 1.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 30%; margin: 0px;">
+<img src="images/payment modes 1.png" style="max-width: 30%; margin: 0px;">
 
 <h3> Make payments at your own convenience for your medical expenses.</h3>
 
