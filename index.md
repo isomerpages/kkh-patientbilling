@@ -15,6 +15,18 @@ sections:
         options:
           - title: Payment Modes available
             url: paymentmodes
+          - title: Submit Billing Enquiries
+            url: enquiries
+          - title: Submit Documents
+            url: documents
+          - title: MediSave and Insurance
+            url: medisave
+          - title: Financial Assistance available
+            url: assistance
+          - title: Switch Ward Type
+            url: inpatient
+          - title: Switch to Subsidised Care
+            url: outpatient
   - resources:
       title: News and Happenings
       subtitle: EXPLORE
