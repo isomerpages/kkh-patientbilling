@@ -9,8 +9,8 @@ a basic health insurance, administered by the Central Provident Fund (CPF) Board
 
 To find out more about the coverage of MediShield Life for pre-existing illnesses, click [here](https://www.moh.gov.sg/home/our-healthcare-system/medishield-life/what-is-medishield-life/coverage-for-pre-existing-conditions).
 
-<img src="images/msl2.png" style="vertical-align: middle; max-width: 65%; margin: 5px;">
-<img src="images/msl3.png" style="vertical-align: middle; max-width: 65%; margin: 5px;">
+<img src="images/msl2.png" style="vertical-align: middle; max-width: 60%; margin: 5px;">
+<img src="images/msl3.png" style="vertical-align: middle; max-width: 60%; margin: 5px;">
 
 
 The Government will also provide significant support to keep premiums affordable, including those who need to pay [Additional Premiums](https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/medishield-life-premiums-and-subsidies):
