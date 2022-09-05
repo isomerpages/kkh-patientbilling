@@ -8,7 +8,9 @@ description: ""
 **Request for Physical Final Bill**<br>
 Need a copy of your printed final bill? Submit your request [here](https://form.gov.sg/61765cb2f16712001311a0bb).
 <br>
- <img src="images/payment enquiry.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 25%; margin: 5px;">
+<br>
+ <img src="images/payment enquiry.png" style="vertical-align: middle; max-width: 25%; margin: 5px;">
+ 
 **Payment and Refund Enquiry**
 
 <table align="center" style="border: 1px solid rgb(198, 198, 198); width: 835.231px;"><tbody>
@@ -34,6 +36,7 @@ Need a copy of your printed final bill? Submit your request [here](https://form
 		</td></tr></tbody></table>
 
 
+<br>
 <br>
  <img src="images/feedback.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 25%; margin: 5px;">
  
