@@ -15,23 +15,23 @@ Need a copy of your printed final bill? Submit your request [here](https://form
 
 <table align="center" style="border: 1px solid rgb(198, 198, 198); width: 835.231px;"><tbody>
 	<tr>
-		<td style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 281px;">
+		<td style="border: 1px solid rgb(198, 198, 198); width: 281px;">
 			​<b>Payment Enquiry</b><br>
 			• Monday to Friday (exclude Public Holidays), 8.30am to 5.30pm<br>
 			• Saturday (exclude PH), 8.30am to 12.30pm<br>
 		</td>
-		<td rowspan="2" style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 281px; text-align: center;">Submit your billing enquiry <a href="https://form.gov.sg/607e5be8145bfa00122931bd">here</a>.
+		<td rowspan="2" style="border: 1px solid rgb(198, 198, 198); width: 281px; text-align: center;">Submit your billing enquiry <a href="https://form.gov.sg/607e5be8145bfa00122931bd">here</a>.
 		</td>
-		<td style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 281px;">
+		<td style="border: 1px solid rgb(198, 198, 198); width: 281px;">
 			​Tel: 6407 8108</td>
 	</tr>
 	<tr>
-		<td style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">
+		<td style="border: 1px solid rgb(198, 198, 198);">
 			​<b>Refund Enquiry</b>
 			<br>
 			• Monday to Friday (exclude PH), 8.30am to 5.30pm
 		</td>
-		<td style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);">
+		<td style="border: 1px solid rgb(198, 198, 198);">
 			Tel: 6407 8040
 		</td></tr></tbody></table>
 
