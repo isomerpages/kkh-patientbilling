@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Patient Billing
       subtitle: By KKH Business Office
-      background: /images/women desk copy.jpg
+      background: /images/Current banner.jpg
       dropdown:
         title: How can we assist you?
         options:
