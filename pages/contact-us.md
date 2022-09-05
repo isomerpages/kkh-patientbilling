@@ -23,12 +23,12 @@ contacts:
   - content:
       - phone: +65 6564 0781
       - email: ""
-      - other: Mon - Fri (exclude Public Holidays), 8.30am to12.30pm. Saturday (exclude
-          Public Holidays), 8.30am to 12.30pm.
+      - other: Mon - Fri (exclude Public Holidays), 8.30am to  12.30pm. Saturday
+          (exclude Public Holidays), 8.30am to 12.30pm.
     title: Billing Enquiries (Payment)
   - content:
       - phone: +65 6564 0780
       - email: ""
-      - other: Mon - Fri (exclude Public Holidays), 8.30am to 5.30pm
+      - other: Mon - Fri (exclude Public Holidays), 8.30am to 5.30pm.
     title: Billing Enquiries (Refund)
 ---
