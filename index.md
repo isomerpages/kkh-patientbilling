@@ -13,19 +13,19 @@ sections:
       dropdown:
         title: How can we assist you?
         options:
-          - title: Payment Modes available
+          - title: Find out about payment modes available
             url: paymentmodes
-          - title: Submit Billing Enquiries
+          - title: Submit your billing enquiries
             url: enquiries
-          - title: Submit Documents
+          - title: Submit documents for verification
             url: documents
-          - title: MediSave and Insurance
+          - title: Learn more about MediSave and insurance
             url: medisave
-          - title: Financial Assistance available
+          - title: Find out about financial assistance available
             url: assistance
-          - title: Switch Ward Type
+          - title: Switch ward type
             url: inpatient
-          - title: Switch to Subsidised Care
+          - title: Switch to subsidized care
             url: outpatient
   - resources:
       title: News and Happenings
