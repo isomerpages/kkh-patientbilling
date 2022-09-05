@@ -1,14 +1,14 @@
 ---
 title: SAMs and Post Offices
-permalink: /bill-payment/SAMs
+permalink: /bill-payment/SAMs/
 description: ""
 ---
 Payments can be made through Self-Service Automated Machines (SAMs) and at all post offices located nationwide.
 
 Payment modes
 
-*   SAMs: NETS only
-*   Post Offices: Cash, Cash Card, Credit Card and NETS
+* SAMs: NETS only
+* Post Offices: Cash, Cash Card, Credit Card and NETS
 
 At KK Women's and Children's Hospital, the SAM is located near the entrance to the food court, Level 1.
 
