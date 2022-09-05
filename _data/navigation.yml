@@ -1,16 +1,6 @@
 logo: /images/site-logo.png
 links:
-  - title: Payments
+  - title: Payment Modes
     url: /paymentmodes
-  - title: Enquiries
+  - title: Billing Enquiries
     url: /Enquiries
-  - title: Documents
-    url: /Documents
-  - title: MediSave and Insurance
-    collection: medisave-and-insurance
-  - title: Assistance
-    url: /financialassistance
-  - title: Inpatient
-    url: /switchward
-  - title: Outpatient
-    url: /subsidizedcare
