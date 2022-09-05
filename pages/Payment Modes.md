@@ -31,4 +31,4 @@ description: ""
 	<a href="https://payment.flywire.com/pay/payment">Make payment</a> from overseas in home currency (except Singapore dollars) without incurring high conversion rate.</li></ul></td></tr></tbody></table>
 
   
-To find out more about your bill presentment, please click [here](https://www.kkh.com.sg/patient-care/bill-payment).
+To find out more about your bill presentment, please click [here](/bill-payment/mobilepayment).
