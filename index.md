@@ -7,25 +7,12 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      key_highlights:
-        - title: Payments
-          description: Learn about all payment methods accepted
-          url: /paymentmodes
-        - title: Documents
-          description: Find information on submission, verification or settlement of
-            documents
-          url: /documents
-        - title: MEDISAVE
-          description: Information on using MediSave for treatments.
-          url: /medisave-and-insurance/medisave
-        - title: Financial Assistance
-          description: Appeal for access to subsidized healthcare services
-          url: /financialassistance
       title: Patient Billing
       subtitle: By KKH Business Office
-      button: Find out more
-      url: https://www.kkh.com.sg/
       background: /images/women desk copy.jpg
+      dropdown:
+        title: Hero Dropdown Title
+        options: []
   - resources:
       title: News and Happenings
       subtitle: EXPLORE
