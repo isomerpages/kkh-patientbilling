@@ -11,7 +11,7 @@ links:
   - title: Financial Assistance
     url: /financialassistance
   - title: More
-    url: /more
+    url: /inpatient
     sublinks:
       - title: Switch Ward Type
         url: /inpatient
