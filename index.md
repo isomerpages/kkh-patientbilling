@@ -20,7 +20,7 @@ sections:
           - title: Submit documents for verification
             url: documents
           - title: Learn more about MediSave and insurance
-            url: medisave
+            url: medisave-and-insurance
           - title: Find out about financial assistance available
             url: /financialassistance
           - title: Switch ward type
