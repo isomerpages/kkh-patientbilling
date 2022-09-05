@@ -1,6 +1,19 @@
 logo: /images/site-logo.png
 links:
-  - title: Payment Modes
+  - title: Payments
     url: /paymentmodes
-  - title: Billing Enquiries
+  - title: Enquiries
     url: /Enquiries
+  - title: Documents
+    url: /documents
+  - title: Medisave and insurance
+    collection: medisave-and-insurance
+  - title: Financial Assistance
+    url: /financialassistance
+  - title: More
+    url: /more
+    sublinks:
+      - title: Switch ward type
+        url: /inpatient
+      - title: Switch to Subsidised Care
+        url: /outpatient
