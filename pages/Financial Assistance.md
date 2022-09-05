@@ -11,6 +11,6 @@ Financial assistance for payment of subsidised medical bills is available for Si
 
 <img src="images/Assistance.png" style="vertical-align: middle; max-width: 80%; margin: 5px;">
 
-Please complete this **[form](https://form.gov.sg/60e7e855be4d9200114abe87)** for our Medical Social Worker (MSW) to assess your appeal for financial assistance.
+Please complete this [form](https://form.gov.sg/60e7e855be4d9200114abe87) for our Medical Social Worker (MSW) to assess your appeal for financial assistance.
 
 Being multi-faceted, our medical social worker offers a range of other services. To find out more, please click [here](https://www.kkh.com.sg/patient-care/areas-of-care/allied-health-services/Pages/medical-social-work.aspx).
