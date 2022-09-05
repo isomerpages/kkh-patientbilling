@@ -3,9 +3,9 @@ title: Payment Modes
 permalink: /paymentmodes/
 description: ""
 ---
-<img src="images/payment modes 1.png" style="max-width: 30%; margin: 0px;">
-
-<h3> Make payments at your own convenience for your medical expenses.</h3>
+<h4> Make payments at your own convenience for your medical expenses.</h4>
+<br>
+<br>
 
 <table style="border: 1px solid rgb(198, 198, 198); width: 811px;"><tbody>
 	<tr>
