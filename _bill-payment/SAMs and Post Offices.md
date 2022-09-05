@@ -5,7 +5,7 @@ description: ""
 ---
 Payments can be made through Self-Service Automated Machines (SAMs) and at all post offices located nationwide.
 
-#### Payment modes
+##### Payment Modes
 
 * **SAMs:** NETS only
 * **Post Offices:** Cash, Cash Card, Credit Card and NETS
