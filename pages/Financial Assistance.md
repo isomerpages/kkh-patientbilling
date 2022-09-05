@@ -3,13 +3,13 @@ title: Financial Assistance
 permalink: /financialassistance/
 description: ""
 ---
-<img src="images/assistance1.png" style="vertical-align: middle; max-width: 20%; margin: 5px;">
+<img src="images/Assistance1.png" style="vertical-align: middle; max-width: 20%; margin: 5px;">
 
 Should you face difficulties in paying your medical bills after utilising other means of payments such as MediShield Life, MediSave and Private Medical Insurance, you may apply for financial assistance.
 
 Financial assistance for payment of subsidised medical bills is available for Singapore Citizens and Permanent Residents.
 
-[![](https://www.kkh.com.sg/patient-care/patient-billing-services/PublishingImages/financial-assistance-02.png)](https://form.gov.sg/#%21/60e7e855be4d9200114abe87)
+<img src="images/Assistance.png" style="vertical-align: middle; max-width: 80%; margin: 5px;">
 
 Please complete this **[form](https://form.gov.sg/60e7e855be4d9200114abe87)** for our Medical Social Worker (MSW) to assess your appeal for financial assistance.
 
