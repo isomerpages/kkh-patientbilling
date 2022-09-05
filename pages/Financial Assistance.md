@@ -1,8 +1,10 @@
 ---
 title: Financial Assistance
-permalink: /financialassistance
+permalink: /financialassistance/
 description: ""
 ---
+<img src="images/assistance1.png" style="vertical-align: middle; max-width: 20%; margin: 5px;">
+
 Should you face difficulties in paying your medical bills after utilising other means of payments such as MediShield Life, MediSave and Private Medical Insurance, you may apply for financial assistance.
 
 Financial assistance for payment of subsidised medical bills is available for Singapore Citizens and Permanent Residents.
