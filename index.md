@@ -22,7 +22,7 @@ sections:
           - title: Learn more about MediSave and insurance
             url: medisave
           - title: Find out about financial assistance available
-            url: assistance
+            url: /financialassistance
           - title: Switch ward type
             url: inpatient
           - title: Switch to subsidized care
