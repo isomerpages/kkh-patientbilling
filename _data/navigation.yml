@@ -13,7 +13,7 @@ links:
   - title: More
     url: /more
     sublinks:
-      - title: Switch ward type
+      - title: Switch Ward Type
         url: /inpatient
       - title: Switch to Subsidised Care
         url: /outpatient
