@@ -5,7 +5,6 @@ description: ""
 ---
 <h4> Make payments at your own convenience for your medical expenses.</h4>
 <br>
-<br>
 
 <table style="border: 1px solid rgb(198, 198, 198); width: 811px;"><tbody>
 	<tr>
