@@ -2,7 +2,7 @@
 layout: homepage
 title: KK Women's and Children's Hospital Patient Billing Services
 description: Patient billing e-services for KK Women's and Children's Hospital, Singapore
-image: /images/site-logo.png
+image: /images/KKH Icon.png
 permalink: /
 notification: ""
 sections:
@@ -32,3 +32,4 @@ sections:
       subtitle: EXPLORE
       button: VIEW ALL
 ---
+
