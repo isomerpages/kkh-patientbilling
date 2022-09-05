@@ -11,8 +11,10 @@ sections:
       subtitle: By KKH Business Office
       background: /images/women desk copy.jpg
       dropdown:
-        title: Hero Dropdown Title
-        options: []
+        title: How can we assist you?
+        options:
+          - title: Payment Modes available
+            url: paymentmodes
   - resources:
       title: News and Happenings
       subtitle: EXPLORE
