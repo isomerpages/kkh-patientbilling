@@ -1,9 +1,9 @@
 ---
 title: Billing Enquiries
-permalink: /enquiries
+permalink: /enquiries/
 description: ""
 ---
-<img src="/images/final-bill.png" style="width:150px;"/>
+<img src="images/final-bill.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 25%; margin: 5px;">
 
 **Request for Physical Final Bill** <br>
 Need a copy of your printed final bill? Submit your request [here](https://form.gov.sg/61765cb2f16712001311a0bb).
