@@ -1,6 +1,6 @@
 title: KK Women's and Children's Hospital Patient Billing Services
-url: ""
-favicon: /images/kandang-kerbau-hospital-squarelogo-1429858017430.png
+url: https://www.kkh.com.sg
+favicon: /images/KKH Icon.png
 colors:
   primary-color: "#6031b6"
   secondary-color: "#4372d6"
@@ -52,7 +52,7 @@ plugins:
 staging: https://kkh-patientbilling-staging.netlify.app
 prod: https://kkh-patientbilling-prod.netlify.app
 resources_name: patient-billing
-shareicon: /images/site-logo.png
+shareicon: /images/KKH Icon.png
 is_government: true
 facebook-pixel: ""
 google_analytics: ""
