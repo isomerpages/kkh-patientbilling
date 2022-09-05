@@ -2,31 +2,33 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: KKH Business Office
 locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+  - address:
+      - Level 1, Women's Tower
+      - 100 Bukit Timah Rd
+      - Women's Tower
     operating_hours:
       - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        time: 9.00am - 5.30pm
+        description: Excluding Public Holidays
+    maps_link: ""
+    title: Business Office Counter
 contacts:
-  - title: General Enquiries & Feedback
-    content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+  - content:
+      - phone: +65 6225 5554
+      - email: ""
+      - other: ""
+    title: General Enquiries (24 hrs)
+  - content:
+      - phone: +65 6564 0781
+      - email: ""
+      - other: Mon - Fri (exclude Public Holidays), 8.30am to12.30pm. Saturday (exclude
+          Public Holidays), 8.30am to 12.30pm.
+    title: Billing Enquiries (Payment)
+  - content:
+      - phone: +65 6564 0780
+      - email: ""
+      - other: Mon - Fri (exclude Public Holidays), 8.30am to 5.30pm
+    title: Billing Enquiries (Refund)
 ---
