@@ -3,7 +3,7 @@ title: MediSave Maternity Package (MMP)
 permalink: /medisave-and-insurance/mmp/
 description: ""
 ---
-<img src="images/Preggo Lady.png" style="vertical-align: middle; max-width: 25%; margin: 5px;">
+<img src="images/Preggo.png" style="vertical-align: middle; max-width: 25%; margin: 5px;">
 The MediSave Maternity Package enables patients to utilise MediSave to pay delivery expenses, as well as pre-delivery medical expenses such as consultations and ultrasound. You can also submit your non-KKH antenatal invoices <a href="https://form.gov.sg/5f5eecf5ce27060011faa498">here</a>. 
 
 Check out how much MediSave can be utilised for your delivery journey here:
