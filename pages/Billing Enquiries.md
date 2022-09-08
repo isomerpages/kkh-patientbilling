@@ -9,7 +9,7 @@ description: ""
 Need a copy of your printed final bill? Submit your request [here](https://for.sg/shsbill).
 
 <br>
- <img src="images/payment enquiry.png" style="max-width: 20%; margin: 5px;">
+ <img src="images/paymentenquiry1.png" style="max-width: 20%; margin: 5px;">
  
 **Payment and Refund Enquiry**
 
