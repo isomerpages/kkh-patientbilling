@@ -3,17 +3,18 @@ title: Switch Ward Type
 permalink: /inpatient/
 description: ""
 ---
+<img src="images/ward_archive.jpg" style="vertical-align: middle; max-width: 100%; margin: 5px;">
+
 #### **Request to Switch Ward Type from a Private to Subsidised Ward (For Inpatients)**
-<img src="images/inpatient1.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
+
 
 **When can I switch to a lower ward type?**
 
-<img src="images/inpatient2.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 80%; margin: 5px;">
+<img src="images/inpatient2.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 70%; margin: 5px;">
 
 **How do I switch to a lower ward type?**
 
-Click [here](https://www.form.gov.sg/609732dc1916c800111d8660) to fill out the form for means testing and approval.
-
+Click [here](https://www.form.gov.sg/609732dc1916c800111d8660) to fill out the form for means testing and approval.<br>
 Upon the approval of switching to a lower ward type, subsequent hospital charges will be computed at lower ward rate from the date of successful transfer.
 
 
