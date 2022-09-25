@@ -3,7 +3,11 @@ title: Billing Enquiries
 permalink: /enquiries/
 description: ""
 ---
-<img src="images/paymentenquiry1.png" style="max-width: 20%; margin: 5px;">
+<img src="images/billing-enquiries0.png" style="max-width: 20%; margin: 5px;">
+<img src="images/billing-enquiries1.png" style="max-width: 22%; margin: 2px;">
+<img src="images/billing-enquiries2.png" style="max-width: 20%; margin: 5px;">
+<img src="images/billing-enquiries3.png" style="max-width: 22%; margin: 5px;">
+<img src="images/billing-enquiries4.png" style="max-width: 22%; margin: 5px;">
 
 **Request for Physical Final Bill**<br>
 Need a copy of your printed final bill? Submit your request [here](https://for.sg/shsbill).
