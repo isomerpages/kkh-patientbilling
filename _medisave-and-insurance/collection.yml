@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - MediSave/.keep
-      - MediSave.md
       - MediSave Maternity Package (MMP).md
       - MediShield Life.md
       - Private Medical Insurance (PMI).md
