@@ -5,7 +5,6 @@ description: ""
 ---
 <img src="images/billing-enquiries0.png" style="max-width: 20%; margin: 5px;">
 <img src="images/billing-enquiries1.png" style="max-width: 22%; margin: 2px;">
-<img src="images/billing-enquiries2.png" style="max-width: 20%; margin: 5px;">
 <img src="images/billing-enquiries3.png" style="max-width: 22%; margin: 5px;">
 <img src="images/billing-enquiries4.png" style="max-width: 22%; margin: 5px;">
 
@@ -14,6 +13,8 @@ Need a copy of your printed final bill? Submit your request [here](https://for.
 
 <br>
  <img src="images/paymentenquiry1.png" style="max-width: 20%; margin: 5px;">
+  <img src="images/payment-enquiry1.png" style="max-width: 20%; margin: 5px;">	  <img src="images/payment-enquiry2.png" style="max-width: 20%; margin: 5px;">
+	  <img src="images/payment-enquiry3.png" style="max-width: 20%; margin: 5px;">
  
 **Payment and Refund Enquiry**
 
