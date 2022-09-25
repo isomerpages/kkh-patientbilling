@@ -2,10 +2,10 @@ collections:
   medisave-and-insurance:
     output: true
     order:
-      - MediShield Life and Insurance/.keep
-      - MediShield Life and Insurance/MediShield Life.md
-      - MediShield Life and Insurance/Private Medical Insurance (PMI).md
       - MediSave/.keep
       - MediSave/MediSave.md
       - MediSave/MediSave Maternity Package (MMP).md
+      - MediShield Life and Insurance/.keep
+      - MediShield Life and Insurance/MediShield Life.md
+      - MediShield Life and Insurance/Private Medical Insurance (PMI).md
       - Medical Claim Authorisation Forms.md
