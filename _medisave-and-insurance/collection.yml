@@ -2,6 +2,7 @@ collections:
   medisave-and-insurance:
     output: true
     order:
+      - MediSave/MediSave.md
       - MediSave/.keep
       - MediSave Maternity Package (MMP).md
       - MediShield Life.md
