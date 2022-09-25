@@ -8,7 +8,7 @@ description: ""
  <table style="border: 1px solid rgb(198, 198, 198); width: 811px;"><tbody>
 <tr>
 <td style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 156px;">
-<a href="https://eservices.healthhub.sg/public/payments/singhealth"><img src="images/healthhub.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 100%; margin: 5px;"></a>
+<a href="https://eservices.healthhub.sg/public/payments/singhealth"><img src="images/HealthHub.png" style="vertical-align: 20px; max-width: 90%; top margin: 10px"></a>
 </td><td class="ms-rteTableOddCol-default" style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198);"><h5><b>Health Hub</b></h5><ul style="margin-bottom: 0px;"><li>Via Singpass - <a href="https://eservices.healthhub.sg/public/payments/singhealth">View and pay</a> your outstanding bills, download PDF invoices.</li><li>No Singpass? You may register for it <a href="https://www.singpass.gov.sg/home/ui/support">here</a>. It only takes 3mins.</li><li>Alternatively, if you know the bill amount, then please proceed to <a href="https://eservices.healthhub.sg/public/payments/singhealth">make payment</a> using tax invoice number or case number.</li></ul></td></tr></tbody></table>
 <table class="ms-rteTable-default" style="border: 1px solid rgb(198, 198, 198); width: 811px;"><tbody><tr class="ms-rteTableEvenRow-default"><td class="ms-rteTableEvenCol-default" style="padding: 7px 5px 6px; vertical-align: top; border: 1px solid rgb(198, 198, 198); width: 156px;">
 <a href="/bill-payment/mobilepayment"><img src="images/dollar.png" style="vertical-align: middle; max-width: 100%; margin: 5px; width: 133px; height: 105px;"></a></td>
