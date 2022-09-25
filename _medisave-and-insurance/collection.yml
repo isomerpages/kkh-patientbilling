@@ -2,9 +2,9 @@ collections:
   medisave-and-insurance:
     output: true
     order:
-      - MediShield Life and Insurance/Private Medical Insurance (PMI).md
-      - MediShield Life and Insurance/MediShield Life.md
       - MediShield Life and Insurance/.keep
+      - MediShield Life and Insurance/MediShield Life.md
+      - MediShield Life and Insurance/Private Medical Insurance (PMI).md
       - MediSave/MediSave Maternity Package (MMP).md
       - MediSave/MediSave.md
       - MediSave/.keep
