@@ -11,8 +11,6 @@ Need a copy of your printed final bill? Submit your request [here](https://for.
 
 <br>
  <img src="images/paymentenquiry1.png" style="max-width: 20%; margin: 5px;">
-  <img src="images/payment-enquiry1.png" style="max-width: 20%; margin: 5px;">	  <img src="images/payment-enquiry2.png" style="max-width: 20%; margin: 5px;">
-	  <img src="images/payment-enquiry3.png" style="max-width: 20%; margin: 5px;">
  
 **Payment and Refund Enquiry**
 
