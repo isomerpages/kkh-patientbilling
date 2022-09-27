@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: +65 6225 5554
       - email: ""
-      - other: https://for.sg/askshs
+      - other: ""
     title: General Enquiries (24 hrs)
   - content:
       - phone: +65 6407 8108
