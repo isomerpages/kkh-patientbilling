@@ -3,10 +3,8 @@ title: Billing Enquiries
 permalink: /enquiries/
 description: ""
 ---
-<img src="images/billing-enquiries0.png" style="max-width: 20%; margin: 5px;">
 <img src="images/billing-enquiries1.png" style="max-width: 22%; margin: 2px;">
-<img src="images/billing-enquiries3.png" style="max-width: 22%; margin: 5px;">
-<img src="images/billing-enquiries4.png" style="max-width: 22%; margin: 5px;">
+
 
 **Request for Physical Final Bill**<br>
 Need a copy of your printed final bill? Submit your request [here](https://for.sg/shsbill).
@@ -41,11 +39,7 @@ Need a copy of your printed final bill? Submit your request [here](https://for.
 		</td></tr></tbody></table>
 
 <br>
- <img src="images/feedback.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
-  <img src="images/compliment1.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
-  <img src="images/compliment2.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
 	  <img src="images/compliment3.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
-			  <img src="images/compliment4.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
 
 **Compliments and Feedback**
 <br>Your opinion and feedback are valuable to us. Kindly spare a minute of your time to comment on your experience with us. KKH strives to provide the best experience for you. Submit your comments [here](https://form.gov.sg/5ee64839c874b200134f59d2).
