@@ -3,7 +3,7 @@ title: Financial Assistance
 permalink: /financialassistance/
 description: ""
 ---
-<img src="images/Assistance1.png" style="vertical-align: middle; max-width: 20%; margin: 5px;">
+<img src="images/New icons/faid-new.png" style="vertical-align: middle; max-width: 22%; margin: 5px;">
 
 Should you face difficulties in paying your medical bills after utilising other means of payments such as MediShield Life, Private Medical Insurance and MediSave, you may apply for financial assistance.
 
