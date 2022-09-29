@@ -23,7 +23,7 @@ MediShield Life coverage is sized for subsidized treatment in public hospitals a
 
 Patients who choose to stay in a Class A/B1 ward or in a private hospital are also covered by MediShield Life, but the payout covers a small portion of the bill, and therefore they need to pay more from their MediSave and/or cash for the balance.
 
-
+##### Subsidised Premiums
 The Government will also provide significant support to keep premiums affordable, including those who need to pay [Additional Premiums](https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life/medishield-life-premiums-and-subsidies):
 
 *   Premium Subsidies for the lower- to middle-income
