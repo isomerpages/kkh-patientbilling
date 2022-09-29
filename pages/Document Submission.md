@@ -3,7 +3,7 @@ title: Document Submission
 permalink: /documents/
 description: ""
 ---
-<img src="images/New icons/docsub-new.png" style="vertical-align: middle; max-width: 20%; margin: 5px;">
+<img src="images/ds-new.png" style="vertical-align: middle; max-width: 20%; margin: 5px;">
 
 For submission of documents for verification and/or settlement of your hospital visit/admission, please fill up the following form:
 <br><br>
