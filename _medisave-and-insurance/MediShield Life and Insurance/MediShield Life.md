@@ -4,7 +4,8 @@ permalink: /medisave-and-insurance/medishieldlife/
 description: ""
 third_nav_title: MediShield Life and Insurance
 ---
-<img src="images/msl1.png" style="max-width: 30%; margin: 0px;">
+<img src="images/msl-new.png" style="max-width: 30%; margin: 0px;">
+
 <a href="https://www.moh.gov.sg/cost-financing/healthcare-schemes-subsidies/medishield-life">MediShield Life,</a>
 a basic health insurance, administered by the Central Provident Fund (CPF) Board, which helps to pay for large hospital bills and selected costly outpatient treatments, such as dialysis and chemotherapy for cancer. It has affordable premiums that may be fully paid using MediSave.
 
