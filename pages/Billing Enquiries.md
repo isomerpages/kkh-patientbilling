@@ -36,7 +36,7 @@ Need a copy of your printed final bill? Submit your request [here](https://for.
 		</td></tr></tbody></table>
 
 <br>
-	  <img src="images/New icons/candf.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
+	  <img src="images/cf-new.pngg" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
 
 **Compliments and Feedback**
 <br>Your opinion and feedback are valuable to us. Kindly spare a minute of your time to comment on your experience with us. KKH strives to provide the best experience for you. Submit your comments [here](https://form.gov.sg/5ee64839c874b200134f59d2).
