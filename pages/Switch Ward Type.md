@@ -3,7 +3,7 @@ title: Switch Ward Type
 permalink: /inpatient/
 description: ""
 ---
-<img src="images/ward_archive.jpg" style="vertical-align: middle; max-width: 100%; margin: 5px;">
+<img src="images/ward_archive.jpg" style="vertical-align: middle; max-width: 90%; margin: 5px;">
 
 #### **Request to Switch Ward Type from a Private to Subsidised Ward (For Inpatients)**
 
