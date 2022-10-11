@@ -10,7 +10,7 @@ description: ""
 
 **When can I switch to a lower ward type?**
 
-<img src="images/inpatient2.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 70%; margin: 5px;">
+<img src="images/lwt.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 75%; margin: 5px;">
 
 **How do I switch to a lower ward type?**
 
