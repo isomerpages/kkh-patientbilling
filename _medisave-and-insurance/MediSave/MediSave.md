@@ -9,5 +9,8 @@ MediSave is a national medical savings scheme that helps individuals set aside p
 
 **[Find out more about the MediSave withdrawal limits here](https://www.cpf.gov.sg/member/healthcare-financing/using-your-medisave-savings)**.
 
- <img src="images/msv1.png" style="vertical-align: middle; max-width: 90%; margin: 5px;">
+#####  **Using MediSave to pay for family member's medical bills:**
+You can use your MediSave account to pay for hospital bills incurred by yourself, your spouse, children, parents, grandparents or siblings.
+To use MediSave for your grandparents or siblings however, they must be Singapore Citizens or Permanent Residents.
+
  <img src="images/msv2.png" style="vertical-align: middle; max-width: 90%; margin: 5px;">
