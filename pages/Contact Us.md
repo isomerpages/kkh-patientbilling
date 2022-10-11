@@ -3,7 +3,6 @@ title: Contact Us
 permalink: /keycontacts/
 description: ""
 ---
-  
 Get in touch with KKH Business Office
 =======================================
 
@@ -19,5 +18,5 @@ KK Women's and Children's Hospital<br>
 **General Enquiries (24 hrs):** [+65 6225 5554](tel:+6562255554)<br>
 **Billing Enquiries (Payment & Refund):** Submit your enquiry [here](https://for.sg/askshs). 
 
-##### Send us your feedback
+##### **Send us your feedback**
 If you have a query, feedback or wish to report a problem related to this website, please fill in the [online form](https://cms.isomer.gov.sg/https://form.gov.sg/5ee64839c874b200134f59d2).
