@@ -13,7 +13,7 @@ The Ministry of Health has introduced two Medical Claims Authorisation Forms (M
 2.  **MCAF (Multiple)**  
     MCAF(M) allows you to grant full consent to use your MediSave at all MediSave accredited healthcare institutions. MCAF(M) provides ease as you simply need to sign once, for life, unless revoked. To submit your MCAF(M) authorisation electronically via HealthHub, click [here](https://eservices.healthhub.sg/PersonalHealth/FinancialConsent).
 		
-<img src="images/msl11.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 90%; margin: 5px;">		
+<img src="images/msl11.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 70%; margin: 5px;">		
 
 
 **FINANCIAL CONSENTS**
