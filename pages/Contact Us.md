@@ -3,8 +3,7 @@ title: Contact Us
 permalink: /keycontacts/
 description: ""
 ---
-Get in touch with KKH Business Office
-=======================================
+# Get in touch with KKH Business Office
 
 ##### **Business Office Counter**
 Level 1, Women's Tower<br>
