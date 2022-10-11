@@ -13,4 +13,4 @@ MediSave is a national medical savings scheme that helps individuals set aside p
 You can use your MediSave account to pay for hospital bills incurred by yourself, your spouse, children, parents, grandparents or siblings.<br>
 To use MediSave for your grandparents or siblings however, they must be Singapore Citizens or Permanent Residents.
 
- <img src="images/3msv.png" style="vertical-align: middle; max-width: 90%; margin: 5px;">
+ <img src="images/3msv.png" style="vertical-align: middle; max-width: 70%; margin: 5px;">
