@@ -2,6 +2,8 @@ collections:
   bill-payment:
     output: true
     order:
+      - Other Payment Methods/Flywire (Overseas Payment for International
+        Patients).md
       - Other Payment Methods/AXS Stations.md
       - Other Payment Methods/SAMs and Post Offices.md
       - Other Payment Methods/NETS and Credit Cards.md
