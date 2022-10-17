@@ -6,11 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
-
 #### **Business Office has New Operating Hours**
 
-From 5 November 2022, Business Office counter at L1 will operate from 9.00 am to 1.00 pm on Mon - Fri (excluding PH).
+From 17 October 2022, Business Office counter(s) at Level 1 are closed.
 	
-Make use of this website to know about payment methods, MediSave and insurance matters, submission of documents, and more.
+More information on payment methods, MediSave, insurance matters and submission of documents can be found on this website.
 
-You can chat with our Hospital ChatBot, KKHelpBot, or with our live agent [here](https://www.kkh.com.sg/about-kkh/contact-us).
+You can also chat with us via our ChatBot, [KKHelpBot](https://www.kkh.com.sg/about-kkh/contact-us)!
