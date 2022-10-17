@@ -6,9 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-#### **Business Office is now Virtual**
+#### **Business Office is Now Virtual**
 
 From 17 October 2022, Business Office counter(s) at Level 1 are closed.
 	
