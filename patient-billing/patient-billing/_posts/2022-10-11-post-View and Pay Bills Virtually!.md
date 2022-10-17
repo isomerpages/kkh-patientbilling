@@ -10,4 +10,4 @@ image: ""
 <br>
 <img src="images/paperless.png">
 <br>
-<img src="images/health buddy.png">
+<img src="images/healthbuddy.png">
