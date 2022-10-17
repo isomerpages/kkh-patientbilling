@@ -2,6 +2,7 @@ collections:
   bill-payment:
     output: true
     order:
+      - Understanding your Bill.md
       - Other Payment Methods/.keep
       - Other Payment Methods/Mobile Payment Portal.md
       - Other Payment Methods/DBS Internet Banking, Mobile Banking or PayLah!.md
@@ -10,4 +11,3 @@ collections:
       - Other Payment Methods/AXS Stations.md
       - Other Payment Methods/Flywire (Overseas Payment for International
         Patients).md
-      - Understanding your Bill.md
