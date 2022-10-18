@@ -6,9 +6,9 @@ description: ""
 Understanding your Bill
 -----------------------
 
-Since 5 November 2021, there has been a change in bill format. The new bill format is consistent with all other public healthcare institutions.
+Since 5 November 2021, there has been a change in bill format. The current bill format is consistent with all other public healthcare institutions.
 
-The new bill format:
+The current bill format:
 
 1. Standardises information presented in healthcare bills across healthcare institutions and care settings.
 2. Clearly indicates the pre-and-post subsidy costs, and how various financing schemes will help you to pay for the remaining amount.
