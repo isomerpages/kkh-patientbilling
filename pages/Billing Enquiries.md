@@ -12,30 +12,8 @@ Need a copy of your printed final bill? Submit your request [here](https://for.
  <img src="images/be-new.png" style="max-width: 20%; margin: 5px;">
  
 **Payment and Refund Enquiry**
-
-<table align="center" style="border: 1px solid rgb(198, 198, 198); width: 835.231px;"><tbody>
-	<tr>
-		<td style="border: 1px solid rgb(198, 198, 198); width: 281px;">
-			​<b>Payment Enquiry</b><br>
-			• Monday to Friday (exclude Public Holidays), 8.30am to 5.30pm<br>
-			• Saturday (exclude PH), 8.30am to 12.30pm<br>
-		</td>
-		<td rowspan="2" style="border: 1px solid rgb(198, 198, 198); width: 281px; text-align: center;">Submit your billing enquiry <a href="https://for.sg/askshs">here</a>.
-		</td>
-		<td style="border: 1px solid rgb(198, 198, 198); width: 281px;">
-			​Tel: 6407 8108</td>
-	</tr>
-	<tr>
-		<td style="border: 1px solid rgb(198, 198, 198);">
-			​<b>Refund Enquiry</b>
-			<br>
-			• Monday to Friday (exclude PH), 8.30am to 5.30pm
-		</td>
-		<td style="border: 1px solid rgb(198, 198, 198);">
-			Tel: 6407 8040
-		</td></tr></tbody></table>
-
-<br>
+<br>[Submit Enquiry via Online Form](https://for.sg/askshs)  
+_(Please include the case number or tax invoice number in your enquiry submission)._ <br><br>
 	  <img src="images/cf-new.png" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 20%; margin: 5px;">
 
 **Compliments and Feedback**
