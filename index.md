@@ -9,8 +9,8 @@ sections:
   - hero:
       title: Patient Billing
       subtitle: By KKH Business Office, for all matters related to your hospital
-        bills, including payment modes, billing enquiries, MediSave and
-        Insurance, and more.
+        bills, including payment modes, billing enquiries, MediSave, insurance
+        matters, and more.
       background: /images/banner-canv.png
       dropdown:
         title: How can we assist you?
