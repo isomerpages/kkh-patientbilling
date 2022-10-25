@@ -13,7 +13,7 @@ The current bill format:
 2.  Clearly indicates the pre-and-post subsidy costs, and how various financing schemes will help you to pay for the remaining amount.
 3.  Provides options on bill payment methods, including an SGQR code for online payment for added convenience. Patients can also access their bills and make payments on HealthHub.
 
-### Features of the New Bill:
+#### Features of the New Bill:
 
 _NOTE: The bill shown below is for illustrative purposes only. Your actual bill may differ based on your medical treatment._
 
