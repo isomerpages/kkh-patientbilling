@@ -4,10 +4,9 @@ permalink: /bill-payment/SAMs/
 description: ""
 third_nav_title: Other Payment Methods
 ---
-
 Payments can be made through Self-Service Automated Machines (SAMs) and at all post offices located nationwide.
 
-##### Payment Modes
+#### Payment Modes
 
 * **SAMs:** NETS only
 * **Post Offices:** Cash, Cash Card, Credit Card and NETS
