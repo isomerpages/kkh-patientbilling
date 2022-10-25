@@ -6,13 +6,13 @@ description: ""
 Understanding your Bill
 -----------------------
 
-Since 5 November 2021, there has been a change in bill format. The current bill format is consistent with all other public healthcare institutions.
+The bill format has been revised since 5 November 2021. It is consistent with all other public healthcare institutions.
 
 The current bill format:
 
-1. Standardises information presented in healthcare bills across healthcare institutions and care settings.
-2. Clearly indicates the pre-and-post subsidy costs, and how various financing schemes will help you to pay for the remaining amount.
-3. Provides options on bill payment methods, including an SGQR code for online payment for added convenience. Patients can also access their bills and make payments on HealthHub.
+1.  Standardises information presented in healthcare bills across healthcare institutions and care settings.
+2.  Clearly indicates the pre-and-post subsidy costs, and how various financing schemes will help you to pay for the remaining amount.
+3.  Provides options on bill payment methods, including an SGQR code for online payment for added convenience. Patients can also access their bills and make payments on HealthHub.
 
 #### Features of the New Bill:
 
