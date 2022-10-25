@@ -3,8 +3,7 @@ title: Personal Data Protection Act (PDPA)
 permalink: /privacy/
 description: ""
 ---
-
-## Personal Data Protection Act (PDPA)
+### Personal Data Protection Act (PDPA)
 
 #### We Respect and Keep Your Data Safe
 
