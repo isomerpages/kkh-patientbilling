@@ -9,6 +9,7 @@ description: ""
 ##### **Contact Us**
 **General Enquiries (24 hrs):** [+65 6225 5554](tel:+6562255554)<br>
 **Payment and Refund Enquiry:** [Submit Enquiry via Online Form](https://for.sg/askshs)  (Please include the case number or tax invoice number in your enquiry submission)<br>
+**Request for Bill Invoices:** [Submit Bill Request via Online Form](https://for.sg/shsbill)<br>
 **Other Billing Services:** Chat with our [KKHelpBot](http://www.kkh.com.sg/billing-services)
 
 
