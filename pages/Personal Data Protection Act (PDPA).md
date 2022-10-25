@@ -31,8 +31,7 @@ To ensure the continual improvement of the quality of the medical care being pro
 
 For more information on how we collect, use and/or disclose your personal data, please read our [SingHealth Data Protection Policy](https://www.kkh.com.sg/about-kkh/corporate-profile/Documents/20190731%20SingHealth%20Grp%20Data%20Protection%20Policy%20Version%2011.pdf).
 
-Questions?
-----------
+#### Questions?
 
 Feel free to write to us through the following [feedback form](https://www.kkh.com.sg/Pages/feedback.aspx) or contact the KKH Data Protection Officer at [pdpa@kkh.com.sg](mailto:pdpa@kkh.com.sg).
 
