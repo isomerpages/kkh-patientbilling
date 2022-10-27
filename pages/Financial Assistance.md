@@ -9,7 +9,7 @@ Should you face difficulties in paying your medical bills after utilising other 
 
 Financial assistance for payment of subsidised medical bills is available for Singapore Citizens and Permanent Residents.
 
-<img src="images/wobble.png">
+<img src="images/wobble.png" width="70%">
 
 Please complete this [form](https://form.gov.sg/60e7e855be4d9200114abe87) for our Medical Social Worker (MSW) to assess your appeal for financial assistance.
 
