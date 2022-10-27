@@ -2,10 +2,10 @@ collections:
   medisave-and-insurance:
     output: true
     order:
-      - MCAF/MCAF(S).md
-      - MCAF/Difference between MCAF(S) and MCAF(M).md
-      - MCAF/Medical Claim Authorisation Forms.md
       - MCAF/.keep
+      - MCAF/Difference between MCAF(S) and MCAF(M).md
+      - MCAF/MCAF(S).md
+      - MCAF/Medical Claim Authorisation Forms.md
       - MediSave/.keep
       - MediSave/MediSave.md
       - MediSave/MediSave Maternity Package (MMP).md
