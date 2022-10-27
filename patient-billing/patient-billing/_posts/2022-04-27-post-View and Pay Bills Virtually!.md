@@ -6,9 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
-
-<img src="images/paperlesss.png">
+<img src="images/resourcetwo1.png">
 <br>
-<img src="images/paperless.png">
+<img src="images/resourcetwo2.png">
 <br>
-<img src="images/healthbuddy.png">
+<img src="images/resourcetwo3.png">
