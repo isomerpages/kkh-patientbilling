@@ -2,6 +2,7 @@ collections:
   medisave-and-insurance:
     output: true
     order:
+      - MCAF/Difference between MCAF(S) and MCAF(M).md
       - MCAF/Medical Claim Authorisation Forms.md
       - MCAF/.keep
       - MediSave/.keep
