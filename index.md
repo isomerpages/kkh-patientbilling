@@ -31,6 +31,8 @@ sections:
             url: inpatient
           - title: Switch to subsidized care
             url: outpatient
+          - title: Submit Medical Claims Authorisation Forms
+            url: medisave-and-insurance/forms/
   - resources:
       title: News and Happenings
       subtitle: EXPLORE
