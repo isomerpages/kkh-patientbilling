@@ -2,6 +2,7 @@ collections:
   medisave-and-insurance:
     output: true
     order:
+      - MCAF/.keep
       - MediSave/.keep
       - MediSave/MediSave.md
       - MediSave/MediSave Maternity Package (MMP).md
