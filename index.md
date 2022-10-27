@@ -23,6 +23,8 @@ sections:
             url: documents
           - title: Learn more about MediSave and insurance
             url: /medisave-and-insurance/medisave/
+          - title: Use of MediShield Life and Insurance
+            url: /medisave-and-insurance/medishieldlife/
           - title: Find out about financial assistance available
             url: /financialassistance
           - title: Switch ward type
