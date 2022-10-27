@@ -11,7 +11,7 @@ sections:
       subtitle: By KKH Business Office, for all matters related to your hospital
         bills, including payment modes, billing enquiries, MediSave, insurance
         matters, and more.
-      background: /images/Bannerv3.png
+      background: /images/Bannerv4.png
       dropdown:
         title: How can we assist you?
         options:
