@@ -21,7 +21,7 @@ sections:
             url: enquiries
           - title: Submit documents for verification
             url: documents
-          - title: Learn more about MediSave and insurance
+          - title: Information on MediSave and MediSave Maternity Package
             url: /medisave-and-insurance/medisave/
           - title: Use of MediShield Life and Insurance
             url: /medisave-and-insurance/medishieldlife/
