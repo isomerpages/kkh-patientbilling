@@ -25,14 +25,14 @@ sections:
             url: /medisave-and-insurance/medisave/
           - title: Use of MediShield Life and Insurance
             url: /medisave-and-insurance/medishieldlife/
+          - title: Submit Medical Claims Authorisation Forms
+            url: medisave-and-insurance/forms/
           - title: Find out about financial assistance available
             url: /financialassistance
           - title: Switch ward type
             url: inpatient
           - title: Switch to subsidized care
             url: outpatient
-          - title: Submit Medical Claims Authorisation Forms
-            url: medisave-and-insurance/forms/
   - resources:
       title: News and Happenings
       subtitle: EXPLORE
