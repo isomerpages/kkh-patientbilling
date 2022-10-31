@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://kkh-patientbilling-staging.netlify.app
 prod: https://kkh-patientbilling-prod.netlify.app
-resources_name: patient-billing
+resources_name: patient-billing-resources
 shareicon: /images/KKH Icon.png
 is_government: true
 facebook-pixel: ""
