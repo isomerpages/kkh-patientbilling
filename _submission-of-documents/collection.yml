@@ -1,0 +1,4 @@
+collections:
+  submission-of-documents:
+    output: true
+    order: []
