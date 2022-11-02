@@ -7,7 +7,7 @@ description: ""
 <img src="images/docuu2.png" style="vertical-align: middle; max-width: 85%; margin: 5px;">
 
 
-For settlement of your hospital visit/admission bill/s, please submit the relevant documents, including MCAF-S, via the form below.
+For settlement of your hospital visit/admission bill/s, please submit the relevant documents,<b> including MCAF-S</b>, via the form below.
 Alternatively, you may also submit via this <a href="[https://form.gov.sg/63071bcc2c1e9100137c16e0]">link</a>.
 <br>
 More details on MCAF-S and instructions on how to fill up the form can be found [here](https://kkh-patientbilling-staging.netlify.app/medisave-and-insurance/mcaf/mcaf-s/).
@@ -18,4 +18,4 @@ More details on MCAF-S and instructions on how to fill up the form can be found 
 <br>
 
 <img src="images/address.jpg" style="vertical-align: middle; max-width: 100%; margin: 5px;"><br>
-For request to update your mailing address, please submit an online form [here](https://form.gov.sg/628f245debc1f7001234555d).
+For the change of **mailing address**, please submit your request by completing this [form](https://for.sg/kkhcgadd "Click to open link").
