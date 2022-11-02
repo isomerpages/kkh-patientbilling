@@ -5,7 +5,7 @@ links:
   - title: Enquiries
     url: /Enquiries
   - title: Documents
-    url: /submission-of-documents
+    collection: submission-of-documents
   - title: Medisave and insurance
     collection: medisave-and-insurance
   - title: Financial Assistance
