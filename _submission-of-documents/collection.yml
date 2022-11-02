@@ -1,4 +1,5 @@
 collections:
   submission-of-documents:
     output: true
-    order: []
+    order:
+      - Document Submission.md
