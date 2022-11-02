@@ -14,4 +14,4 @@ More information on payment methods, MediSave, insurance matters and submission 
 
 You can also chat with us via our ChatBot, [KKHelpBot](https://www.kkh.com.sg/about-kkh/contact-us)!
 
-<img src="images/standee.jpg" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 70%; margin: 5px;">
+<img src="images/standee-new.jpg" style="-webkit-tap-highlight-; vertical-align: middle; max-width: 75%; margin: 5px;">
