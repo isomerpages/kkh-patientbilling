@@ -15,6 +15,3 @@ More details on MCAF-S and instructions on how to fill up the form can be found 
 		
 <iframe id="iframe" src="https://form.gov.sg/63071bcc2c1e9100137c16e0" style="width:100%;height:900px"></iframe>
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
-
-
-For request to update mailing address, please submit an online form [here](https://form.gov.sg/628f245debc1f7001234555d).
