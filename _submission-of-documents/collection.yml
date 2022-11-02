@@ -2,5 +2,5 @@ collections:
   submission-of-documents:
     output: true
     order:
-      - Profile Updates.md
       - Document Submission.md
+      - Profile Updates.md
