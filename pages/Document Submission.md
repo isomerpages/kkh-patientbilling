@@ -7,7 +7,7 @@ description: ""
 <img src="images/submitables.png" style="vertical-align: middle; max-width: 85%; margin: 5px;">
 
 For submission of documents for verification and/or settlement of your hospital visit/admission, please fill up the following form:
-<br><br>
+<br>
 Alternatively, you can also fill it in at <a href="[https://form.gov.sg/63071bcc2c1e9100137c16e0]">here</a>.
 
 
