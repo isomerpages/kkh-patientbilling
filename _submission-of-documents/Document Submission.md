@@ -17,5 +17,3 @@ More details on MCAF-S and instructions on how to fill up the form can be found 
 <div style="font-family:Sans-Serif;font-size:12px;color:#999;opacity:0.5;padding-top:5px">Powered by <a href="https://form.gov.sg" style="color: #999">FormSG</a></div>
 <br>
 
-<img src="images/address.jpg" style="vertical-align: middle; max-width: 100%; margin: 5px;"><br>
-For the change of **mailing address**, please submit your request by completing this [form](https://for.sg/kkhcgadd "Click to open link").
