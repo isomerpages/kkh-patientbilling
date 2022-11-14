@@ -3,5 +3,5 @@ title: Change of Mailing Address
 permalink: /Submission-of-Documents/updates/
 description: ""
 ---
-
-For request to update mailing address, please submit an online form [here](https://form.gov.sg/628f245debc1f7001234555d).
+<img src="images/address.jpg" style="vertical-align: middle; max-width: 100%; margin: 5px;"><br>
+For the change of **mailing address**, please submit your request by completing this [form](https://for.sg/kkhcgadd "Click to open link").
