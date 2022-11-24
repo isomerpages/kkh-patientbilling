@@ -1,7 +1,7 @@
 logo: /images/KKH-logo.png
 links:
   - title: Payments
-    url: /paymentmodes
+    url: /bill-payment/paymentmodes
   - title: Enquiries
     url: /Enquiries
   - title: Documents
