@@ -16,7 +16,7 @@ sections:
         title: How can we assist you?
         options:
           - title: Find out about payment modes available
-            url: paymentmodes
+            url: /bill-payment/paymentmodes
           - title: Submit your billing enquiries
             url: enquiries
           - title: Submit documents for verification
