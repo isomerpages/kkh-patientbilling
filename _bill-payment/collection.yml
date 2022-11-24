@@ -2,7 +2,6 @@ collections:
   bill-payment:
     output: true
     order:
-      - Billing Enquiries.md
       - Understanding your Bill.md
       - Other Payment Methods/.keep
       - Other Payment Methods/Mobile Payment Portal.md
