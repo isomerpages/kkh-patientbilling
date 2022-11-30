@@ -8,7 +8,14 @@ third_nav_title: Medical Claim Auth Forms
 
 ### MCAF (Multiple)
 
-MCAF(M) allows you to grant full consent to use your MediSave at all MediSave accredited healthcare institutions. MCAF(M) provides ease as you simply need to sign once, for life, unless revoked. To submit your MCAF(M) authorisation electronically via HealthHub, click [here](https://eservices.healthhub.sg/PersonalHealth/FinancialConsent).
+MCAF(M) allows you to grant full consent to use your MediSave at all MediSave accredited healthcare institutions. MCAF(M) provides ease as you simply need to sign once, for life, unless revoked.
+
+For consent to be submitted via HealthHub:  
+
+1.  The applicant granting consent has to be aged 21 and above.
+2.  For person below 21 years old, the Parent and/or Legal Guardian will have to make an application on behalf of him/her directly at the participating Publice Healthcare Institutions. Please refer to [www.moh.gov.sg/mcaf](http://www.moh.gov.sg/mcaf) for a list of participating institutions.
+
+To submit your MCAF(M) authorisation electronically via HealthHub, click [here](https://eservices.healthhub.sg/PersonalHealth/FinancialConsent).
 
 **Financial Consents**<br>
 These consents enable the Ministry of Health (MOH) and Public Healthcare Institutions to facilitate the provision and delivery of government subsidies/assistance, MediSave and MediShield Life coverage when you receive healthcare services. Your authorisation will remain valid until revoked.
