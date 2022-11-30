@@ -23,7 +23,7 @@ sections:
             url: documents
           - title: Information on MediSave and MediSave Maternity Package
             url: /medisave-and-insurance/medisave/
-          - title: Use of MediShield Life and Insurance
+          - title: Use of MediShield Life and Integrated Shield Plan
             url: /medisave-and-insurance/medishieldlife/
           - title: Submit Medical Claims Authorisation Forms
             url: medisave-and-insurance/forms/
