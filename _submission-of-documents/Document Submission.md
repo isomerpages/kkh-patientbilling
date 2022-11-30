@@ -4,7 +4,7 @@ permalink: /submission-of-documents/Document-Submission/
 description: ""
 ---
 <img src="images/ds-new.png" style="vertical-align: middle; max-width: 20%; margin: 5px;">
-<img src="images/docuu2.png" style="vertical-align: middle; max-width: 85%; margin: 5px;">
+<img src="images/docusubsub.png" style="vertical-align: middle; max-width: 85%; margin: 5px;">
 
 
 For settlement of your hospital visit/admission bill/s, please submit the relevant documents,<b> including MCAF-S</b>, via the form below.
