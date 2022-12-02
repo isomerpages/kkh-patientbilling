@@ -5,8 +5,7 @@ description: ""
 ---
 ## **Get in touch with<br> KKH Business Office**
 
-contactusicon.png
-
+<img src="images/contactusicon.png" style="max-width: 20%; margin: 2px;">
 
 ### **Connect with us on Social**
 
