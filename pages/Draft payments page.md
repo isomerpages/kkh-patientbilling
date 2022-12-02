@@ -3,7 +3,9 @@ title: Draft payments page
 permalink: /draft-payments/
 description: ""
 ---
-#### Make payment at your own convenience for your medical expenses.
+##### Make payment at your own convenience for your medical expenses.
+
+### Payment Modes
 
 |  |  |  |
 | :-: | :-: | :-: |
