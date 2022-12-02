@@ -3,8 +3,6 @@ title: Payment Modes
 permalink: /bill-payment/paymentmodes/
 description: ""
 ---
-
-
 #### Make payment at your own convenience for your medical expenses.
 <br>
  <table style="border: 1px solid rgb(198, 198, 198); width: 811px;"><tbody>
