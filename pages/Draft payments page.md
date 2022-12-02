@@ -4,7 +4,6 @@ permalink: /draft-payments/
 description: ""
 ---
 ### Payment Modes
-
 | | | |
 | :-: | :-: | :-: |
 |<img src="images/testie2.png" style="max-width: 85%">|<img src="images/testie.png" style="max-width: 65%">|<img src="images/testie3.png" style="max-width: 100%">|
