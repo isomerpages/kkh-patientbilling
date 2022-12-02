@@ -5,7 +5,6 @@ description: ""
 ---
 ### Payment Modes
 
-
 |  |  |  |
 | :-: | :-: | :-: |
 | <img src="images/person1.png" style="max-width: 70%"> | <img src="images/2brn.png" style="max-width: 70%"> | <img src="images/person3.png" style="max-width: 90%"> |
