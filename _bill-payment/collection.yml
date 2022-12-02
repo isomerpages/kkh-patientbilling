@@ -2,8 +2,8 @@ collections:
   bill-payment:
     output: true
     order:
-      - Draft payments page.md
       - Payment Modes.md
+      - Draft payments page.md
       - Understanding your Bill.md
       - Other Payment Modes/.keep
       - Other Payment Modes/Mobile Payment Portal.md
