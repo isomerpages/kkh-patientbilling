@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Payment Modes.md
-      - Draft payments page.md
+      - Payment Modess.md
       - Understanding your Bill.md
       - Other Payment Modes/.keep
       - Other Payment Modes/Mobile Payment Portal.md
