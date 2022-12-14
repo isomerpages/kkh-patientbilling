@@ -2,7 +2,7 @@ collections:
   bill-payment:
     output: true
     order:
-      - Payment Modess.md
+      - Payment Modes.md
       - Understanding your Bill.md
       - Other Payment Modes/.keep
       - Other Payment Modes/Mobile Payment Portal.md
