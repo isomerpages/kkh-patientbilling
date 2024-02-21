@@ -10,7 +10,7 @@ description: ""
 For settlement of your hospital visit/admission bill/s, please submit the relevant documents,<b> including MCAF-S</b>, via the form below.
 Alternatively, you may also submit via this <a href="https://for.sg/kkhdocsub">link</a>.
 <br>
-More details on MCAF-S and instructions on how to fill up the form can be found [here](https://kkh-patientbilling-staging.netlify.app/medisave-and-insurance/mcaf/mcaf-s/).
+More details on MCAF-S and instructions on how to fill up the form can be found [here](/medisave-and-insurance/mcaf/mcaf-s/).
 
 		
 <iframe id="iframe" src="https://form.gov.sg/63071bcc2c1e9100137c16e0" style="width:100%;height:900px"></iframe>
