@@ -12,6 +12,6 @@ KKH is now cheque free.
   
 Payment of bills with Health Buddy is fast, simple and convenient! Download the app [here](https://www.singhealth.com.sg/patient-care/patient-visitor-info/health-buddy-app).
 
-Click [here](https://kkh-patientbilling-staging.netlify.app/paymentmodes/) for information on more payment methods.
+Click [here](/paymentmodes/) for information on more payment methods.
 
 <img src="images/Cheque.png">
